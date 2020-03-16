@@ -20,6 +20,10 @@ public class CubeScript : MonoBehaviour
     private Rigidbody body;
 
     // Start is called before the first frame update
+
+    //Testing Git by putting in a friendly hello to Colson :)
+    //(Try not break to break stuff too much)
+
     void Start()
     {
         body = GetComponent<Rigidbody>();
